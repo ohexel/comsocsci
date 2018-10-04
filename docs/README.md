@@ -1,9 +1,10 @@
 A guide to computational social science resources
 =================================================
+A collection of resources and readings for people wanting to get acquainted with computational social science. This started out as a way for us to collect resources that we found useful or interesting. Credit goes to @andrewnolanhall for pitching the idea at [Data Science Nights@Northwestern](http://www.data-science-nights.org/).
 
 Ideas to gather resources for this guide: 
-- Syllabus included to access readings alongside Bit by Bit book: https://www.bitbybitbook.com 
-- Perspectives on Computational Analysis Syllabus: https://github.com/UC-MACSS/persp-analysis 
+- [Syllabus](https://www.bitbybitbook.com) included to access readings alongside Bit by Bit book 
+- Perspectives on Computational Analysis [Syllabus](https://github.com/UC-MACSS/persp-analysis)
 
 ### Training
 [DataCamp](https://www.datacamp.com)
