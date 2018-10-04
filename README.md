@@ -25,17 +25,13 @@ Ideas to gather resources for this guide:
 
 [Matthew Sagalnik, _Bit by bit_ (tree version)](https://press.princeton.edu/titles/11057.html)
 
-[Bernard E. Harcourt, _Against Prediction_ (tree version)](https://www.press.uchicago.edu/ucp/books/book/chicago/A/bo4101022.html)
+[Bernard E. Harcourt, _Against Prediction_ (tree version)](https://www.press.uchicago.edu/ucp/books/book/chicago/A/bo4101022.html) Summary: _Against Prediction_ argues that predictive policing models not “crime” but “arrests”, i.e. police behavior, not the supposed underlying behavior (not what crimes will happen where, but who will be arrested). Therefore, it will reinforce existing trends in policing instead of “improving” policing.
 
 [Bernard E. Harcourt, _Against Prediction_ (working paper)](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=756945)
 
 [Bernard E. Harcourt, _Against Prediction_; review by Cosma Shalizi](http://bactra.org/reviews/against-prediction/)
 
-    Against Prediction argues that predictive policing models not “crime” but “arrests”, i.e. police behavior, not the supposed underlying behavior (not what crimes will happen where, but who will be arrested). Therefore, it will reinforce existing trends in policing instead of “improving” policing. (Ole)
-
-Thoughts on algorithmic fairness: http://joshualoftus.com/post/algorithmic-fairness-is-as-hard-as-causation/
-
-    Algorithmic fairness is an interdisciplinary research field concerned with the various ways that algorithms may perpetuate or reinforce unfair legacies of our history, and how we might modify the alorithms or systems they are used in to prevent this. For example, if the training data used in a machine learning methods contains patterns caused by things like racism, sexism, ableism, or other types of injustice, then the model may learn those patterns and use them to make predictions and decisions that are unfair. There are many ways that technology can have unintended consequences, and this is just one of them.
+[Thoughts on algorithmic fairness](http://joshualoftus.com/post/algorithmic-fairness-is-as-hard-as-causation/): "Algorithmic fairness is an interdisciplinary research field concerned with the various ways that algorithms may perpetuate or reinforce unfair legacies of our history, and how we might modify the alorithms or systems they are used in to prevent this. For example, if the training data used in a machine learning methods contains patterns caused by things like racism, sexism, ableism, or other types of injustice, then the model may learn those patterns and use them to make predictions and decisions that are unfair. There are many ways that technology can have unintended consequences, and this is just one of them."
 
 #### Reading list - Methods
 [Claus Witte, _Fundamentals of Data Visualization_](https://serialmentor.com/dataviz/)
