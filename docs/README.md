@@ -1,23 +1,28 @@
 A guide to computational social science resources
 =================================================
-A collection of resources and readings for people wanting to get acquainted with computational social science. This started out as a way for us to collect resources that we found useful or interesting. Credit goes to @andrewnolanhall for pitching the idea at [Data Science Nights@Northwestern](http://www.data-science-nights.org/).
+A collection of resources and readings for people wanting to get acquainted with computational social science. This started out as a way for us to collect resources that we found useful or interesting. Credit goes to @andrewnolanhall for pitching the idea at [Data Science Nights@Northwestern](http://www.data-science-nights.org/). Links to similar collections at the bottom. Text in quotes is taken directly from the website or document. The rest is our editorializing. Suggestions welcome. WIP.
 
 Ideas to gather resources for this guide: 
 - [Syllabus](https://www.bitbybitbook.com) included to access readings alongside Bit by Bit book 
 - Perspectives on Computational Analysis [Syllabus](https://github.com/UC-MACSS/persp-analysis)
 
+
 ### Training
+[Starting from zero, Data Carpentry workshop](https://datacarpentry.org/r-socialsci/): "This is an introduction to R designed for participants with no programming experience. These lessons can be taught in a day (~ 6 hours). They start with some basic information about R syntax, the RStudio interface, and move through how to import CSV files, the structure of data frames, how to deal with factors, how to add/remove rows and columns, how to calculate summary statistics from a data frame, and a brief introduction to plotting."
+
+These resources are intended for in-person workshops but can be used by self-learners.
+
 [DataCamp](https://www.datacamp.com)
 
 [DataCamp for Northwestern University students](https://www.it.northwestern.edu/research/campus-events/data-camp.html)
 
 [Garret Grolemund, Hadley Wickham, _R for Data Science_](http://r4ds.had.co.nz/)
 
-[Chromebook Data Science project](http://jhudatascience.org/chromebookdatascience/cbds.html) Self-presentation: "Chromebook Data Science (CBDS) is an online educational program to help anyone who can read, write, and use a computer to move into data science. It is offered by faculty members in the Johns Hopkins Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health. There are currently 12 courses that are offered in the Chromebook Data Science Curriculum."
+[Chromebook Data Science project](http://jhudatascience.org/chromebookdatascience/cbds.html): "Chromebook Data Science (CBDS) is an online educational program to help anyone who can read, write, and use a computer to move into data science. It is offered by faculty members in the Johns Hopkins Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health. There are currently 12 courses that are offered in the Chromebook Data Science Curriculum."
 
-[UK Data Service Data Skills Modules](https://www.ukdataservice.ac.uk/use-data/data-skills-modules) Self-presentation: "These introductory level interactive modules are designed for users who want to get to grips with keys aspects of survey, longitudinal and aggregate data."
+[UK Data Service Data Skills Modules](https://www.ukdataservice.ac.uk/use-data/data-skills-modules): "These introductory level interactive modules are designed for users who want to get to grips with keys aspects of survey, longitudinal and aggregate data."
 
-[Kieran J. Healy, _Data Visualization - A practical introduction_](http://socviz.co/)
+[Scipy Lecture Notes](www.scipy-lectures.org) "Tutorials on the scientific Python ecosystem: a quick introduction to central tools and techniques. The different chapters each correspond to a 1 to 2 hours course with increasing level of expertise, from beginner to expert."
 
 ### Reading lists
 
@@ -58,16 +63,19 @@ Ideas to gather resources for this guide:
  
 [Cook County Open Data - State Attorney (e.g. arrest data)](https://datacatalog.cookcountyil.gov/browse?tags=state%27s%20attorney%20case-level)
 
-### Private sector applications
-Cambridge Analytica
+[Wesleyan Media Project](http://mediaproject.wesleyan.edu/): "The Wesleyan Media Project tracks and analyzes all broadcast advertisements aired by or on behalf of federal and state election candidates in every media market in the country."
 
-Predictive Policing (LA, Chicago, NYC)
-
-Palantir
+[The Stanford Open Policing Project](https://openpolicing.stanford.edu/): "Our team is gathering, analyzing, and releasing records from millions of traffic stops by law enforcement agencies across the country."
 
 
 ### People, groups, hashtags
 [List of sociologists online, by Philip N. Cohen](https://twitter.com/familyunequal/lists/sociologists)
 
-#rladies
-#rstats
+`#rladies`
+
+`#rstats`
+
+### Similar collections
+[R resources collection, NU Research Computing Services](https://github.com/nuitrcs/rworkshops)
+
+[Python resources collection, NU Research Computing Services](https://github.com/nuitrcs/pythonworkshops)

@@ -1,10 +1,11 @@
 A guide to computational social science resources
 =================================================
-A collection of resources and readings for people wanting to get acquainted with computational social science. This started out as a way for us to collect resources that we found useful or interesting. Credit goes to @andrewnolanhall for pitching the idea at [Data Science Nights@Northwestern](http://www.data-science-nights.org/). Links to similar collections at the bottom. WIP.
+A collection of resources and readings for people wanting to get acquainted with computational social science. This started out as a way for us to collect resources that we found useful or interesting. Credit goes to @andrewnolanhall for pitching the idea at [Data Science Nights@Northwestern](http://www.data-science-nights.org/). Links to similar collections at the bottom. Text in quotes is taken directly from the website or document. The rest is our editorializing. Suggestions welcome. WIP.
 
 Ideas to gather resources for this guide: 
 - [Syllabus](https://www.bitbybitbook.com) included to access readings alongside Bit by Bit book 
 - Perspectives on Computational Analysis [Syllabus](https://github.com/UC-MACSS/persp-analysis)
+
 
 ### Training
 [Starting from zero, Data Carpentry workshop](https://datacarpentry.org/r-socialsci/): "This is an introduction to R designed for participants with no programming experience. These lessons can be taught in a day (~ 6 hours). They start with some basic information about R syntax, the RStudio interface, and move through how to import CSV files, the structure of data frames, how to deal with factors, how to add/remove rows and columns, how to calculate summary statistics from a data frame, and a brief introduction to plotting."
@@ -65,13 +66,6 @@ These resources are intended for in-person workshops but can be used by self-lea
 [Wesleyan Media Project](http://mediaproject.wesleyan.edu/): "The Wesleyan Media Project tracks and analyzes all broadcast advertisements aired by or on behalf of federal and state election candidates in every media market in the country."
 
 [The Stanford Open Policing Project](https://openpolicing.stanford.edu/): "Our team is gathering, analyzing, and releasing records from millions of traffic stops by law enforcement agencies across the country."
-
-### Private sector applications
-Cambridge Analytica
-
-Predictive Policing (LA, Chicago, NYC)
-
-Palantir
 
 
 ### People, groups, hashtags
