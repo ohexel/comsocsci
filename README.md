@@ -26,7 +26,7 @@ These resources are intended for in-person workshops but can be used by self-lea
 
 Learn R, in R. https://swirlstats.com
 
-[Scipy Lecture Notes] (www.scipy-lectures.org) "Tutorials on the scientific Python ecosystem: a quick introduction to central tools and techniques. The different chapters each correspond to a 1 to 2 hours course with increasing level of expertise, from beginner to expert.
+[Scipy Lecture Notes](www.scipy-lectures.org) "Tutorials on the scientific Python ecosystem: a quick introduction to central tools and techniques. The different chapters each correspond to a 1 to 2 hours course with increasing level of expertise, from beginner to expert.
 
 ### Reading lists
 
