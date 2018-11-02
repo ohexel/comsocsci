@@ -13,8 +13,8 @@ Ideas to gather resources for this guide:
 These resources are intended for in-person workshops but can be used by self-learners.
 
 [DataCamp](https://www.datacamp.com)
-
-[DataCamp for Northwestern University students](https://www.it.northwestern.edu/research/campus-events/data-camp.html)
+  - Lessons and interactive tutorials for beginners and experts in data analysis. 
+  - [DataCamp for Northwestern University students](https://www.it.northwestern.edu/research/campus-events/data-camp.html) Offered for free to Northwestern students.  Students can sign up to receive a pass to all courses at the beginning of each quarter. They run out of free passes, so be sure to jump on this at the beginning of the quarter! You need to complete the free intro courses of either Python or R before being able to get access, so complete that first. 
 
 [Garret Grolemund, Hadley Wickham, _R for Data Science_](http://r4ds.had.co.nz/)
 
@@ -26,14 +26,14 @@ These resources are intended for in-person workshops but can be used by self-lea
 
 Learn R, in R. https://swirlstats.com
 
-[Scipy Lecture Notes](www.scipy-lectures.org) "Tutorials on the scientific Python ecosystem: a quick introduction to central tools and techniques. The different chapters each correspond to a 1 to 2 hours course with increasing level of expertise, from beginner to expert.
+[Scipy Lecture Notes] (www.scipy-lectures.org) "Tutorials on the scientific Python ecosystem: a quick introduction to central tools and techniques. The different chapters each correspond to a 1 to 2 hours course with increasing level of expertise, from beginner to expert.
 
 ### Reading lists
 
 #### Reading list - General
-[Matthew Sagalnik, _Bit by bit_](https://www.bitbybitbook.com/en/1st-ed/preface/)
+[Matthew Sagalnik, _Bit by bit](https://press.princeton.edu/titles/11057.html)
 
-[Matthew Sagalnik, _Bit by bit_ (tree version)](https://press.princeton.edu/titles/11057.html)
+[Matthew Sagalnik, _Bit by bit_(Free version)](https://www.bitbybitbook.com/en/1st-ed/preface/)
 
 [Bernard E. Harcourt, _Against Prediction_ (tree version)](https://www.press.uchicago.edu/ucp/books/book/chicago/A/bo4101022.html) Summary: _Against Prediction_ argues that predictive policing models not “crime” but “arrests”, i.e. police behavior, not the supposed underlying behavior (not what crimes will happen where, but who will be arrested). Therefore, it will reinforce existing trends in policing instead of “improving” policing.
 
@@ -53,6 +53,10 @@ Learn R, in R. https://swirlstats.com
 [Garret Grolemund, Hadley Wickham, _R for Data Science_](http://r4ds.had.co.nz/)
 
 [Quartz guide to real world data munging problems](https://github.com/Quartz/bad-data-guide)
+
+
+#### Reading List - Neural Networks
+[Learning Neural Networks](http://neuralnetworksanddeeplearning.com/index.html)
 
 #### Reading list - CSS Applications in Psychology
 
