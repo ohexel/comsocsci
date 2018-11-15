@@ -24,9 +24,10 @@ These resources are intended for in-person workshops but can be used by self-lea
 
 [Scipy Lecture Notes](www.scipy-lectures.org) "Tutorials on the scientific Python ecosystem: a quick introduction to central tools and techniques. The different chapters each correspond to a 1 to 2 hours course with increasing level of expertise, from beginner to expert."
 
-### Reading lists
+For people coming from `Stata` and wanting to learn `R`: [R for Stata users](http://r4stats.com/books/r4stata/). An earlier draft is available for free.
 
-#### Reading list - General
+### Reading lists
+#### General
 [Matthew Sagalnik, _Bit by bit_](https://www.bitbybitbook.com/en/1st-ed/preface/)
 
 [Matthew Sagalnik, _Bit by bit_ (tree version)](https://press.princeton.edu/titles/11057.html)
@@ -39,7 +40,7 @@ These resources are intended for in-person workshops but can be used by self-lea
 
 [Thoughts on algorithmic fairness](http://joshualoftus.com/post/algorithmic-fairness-is-as-hard-as-causation/): "Algorithmic fairness is an interdisciplinary research field concerned with the various ways that algorithms may perpetuate or reinforce unfair legacies of our history, and how we might modify the alorithms or systems they are used in to prevent this. For example, if the training data used in a machine learning methods contains patterns caused by things like racism, sexism, ableism, or other types of injustice, then the model may learn those patterns and use them to make predictions and decisions that are unfair. There are many ways that technology can have unintended consequences, and this is just one of them."
 
-#### Reading list - Methods
+#### Methods
 [Claus Witte, _Fundamentals of Data Visualization_](https://serialmentor.com/dataviz/)
 
 [Claus Witte, _Fundamentals of Data Visualization_ (R markdown source)](https://github.com/clauswilke/dataviz)
@@ -50,13 +51,16 @@ These resources are intended for in-person workshops but can be used by self-lea
 
 [Quartz guide to real world data munging problems](https://github.com/Quartz/bad-data-guide)
 
+### Ethics
+[Notes from @DynamicWebPaige on Google's ML Fairness course](https://github.com/dynamicwebpaige/info/blob/master/blog/online_courses/20-10-2018_AI_Ethics.md)
+
 #### Reading list - CSS Applications in Psychology
 
 #### Reading list - CSS Applications in Sociology
 
 #### Reading list - CSS Applications in Political Science
 
-### Data sets and sources
+### Data sets, sources, and software
 [Google tool for finding datasets](https://toolbox.google.com/datasetsearch)
 
 [Cook County Open Data portal](https://datacatalog.cookcountyil.gov/)
@@ -66,6 +70,10 @@ These resources are intended for in-person workshops but can be used by self-lea
 [Wesleyan Media Project](http://mediaproject.wesleyan.edu/): "The Wesleyan Media Project tracks and analyzes all broadcast advertisements aired by or on behalf of federal and state election candidates in every media market in the country."
 
 [The Stanford Open Policing Project](https://openpolicing.stanford.edu/): "Our team is gathering, analyzing, and releasing records from millions of traffic stops by law enforcement agencies across the country."
+
+[The @unitedstates project](https://theunitedstates.io/) Scrapers and parsers for many aspects regarding Congress, e.g. bios of members past and present, data about bills and roll call votes, district shapefiles, and much more.
+
+[Congressional record parser](https://github.com/unitedstates/congressional-record): "This tool converts HTML files containing the text of the Congressional Record into structured text data. It is particularly useful for identifying speeches by members of Congress."
 
 ### People, groups, hashtags
 [List of sociologists online, by Philip N. Cohen](https://twitter.com/familyunequal/lists/sociologists)
@@ -78,3 +86,5 @@ These resources are intended for in-person workshops but can be used by self-lea
 [R resources collection, NU Research Computing Services](https://github.com/nuitrcs/rworkshops)
 
 [Python resources collection, NU Research Computing Services](https://github.com/nuitrcs/pythonworkshops)
+
+[OpenIntro, free textbooks](https://twitter.com/OpenIntroOrg)
