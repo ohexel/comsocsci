@@ -12,6 +12,8 @@ Ideas to gather resources for this guide:
 
 These resources are intended for in-person workshops but can be used by self-learners.
 
+For people coming from `Stata` and wanting to learn `R`: [R for Stata users](http://r4stats.com/books/r4stata/). An earlier draft is available for free.
+
 [DataCamp](https://www.datacamp.com)
 
 [DataCamp for Northwestern University students](https://www.it.northwestern.edu/research/campus-events/data-camp.html)
@@ -24,7 +26,6 @@ These resources are intended for in-person workshops but can be used by self-lea
 
 [Scipy Lecture Notes](www.scipy-lectures.org) "Tutorials on the scientific Python ecosystem: a quick introduction to central tools and techniques. The different chapters each correspond to a 1 to 2 hours course with increasing level of expertise, from beginner to expert."
 
-For people coming from `Stata` and wanting to learn `R`: [R for Stata users](http://r4stats.com/books/r4stata/). An earlier draft is available for free.
 
 ### Reading lists
 #### General
