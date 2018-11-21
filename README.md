@@ -53,6 +53,8 @@ For people coming from `Stata` and wanting to learn `R`: [R for Stata users](htt
 [Quartz guide to real world data munging problems](https://github.com/Quartz/bad-data-guide)
 
 ### Ethics
+Fairness definitions and their politics: [presentation by Arvind Narayanan, video](https://www.youtube.com/watch?v=jIXIuYdnyyk), [presentation by Arvind Narayanan, text](https://docs.google.com/document/d/1bnQKzFAzCTcBcNvW5tsPuSDje8WWWY-SSF4wQm6TLvQ/edit), [article by Verma and Rubin, pdf](www.ece.ubc.ca/~mjulia/publications/Fairness_Definitions_Explained_2018.pdf)
+
 [Notes from @DynamicWebPaige on Google's ML Fairness course](https://github.com/dynamicwebpaige/info/blob/master/blog/online_courses/20-10-2018_AI_Ethics.md)
 
 #### Reading list - CSS Applications in Psychology
