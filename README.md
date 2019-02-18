@@ -26,6 +26,11 @@ For people coming from `Stata` and wanting to learn `R`: [R for Stata users](htt
 
 [Scipy Lecture Notes](www.scipy-lectures.org) "Tutorials on the scientific Python ecosystem: a quick introduction to central tools and techniques. The different chapters each correspond to a 1 to 2 hours course with increasing level of expertise, from beginner to expert."
 
+[The BBC's visual and data journalism cookbook for R](https://bbc.github.io/rcookbook/)
+
+[Blog post announcing and explaining the launch of the BBC's visual and data journalism cookbook in R](https://medium.com/bbc-visual-and-data-journalism/how-the-bbc-visual-and-data-journalism-team-works-with-graphics-in-r-ed0b35693535)
+
+Very high-level view of what makes up "data science:" [Curriculum Guidelines for Undergraduate Programs in Data Science](https://www.annualreviews.org/doi/full/10.1146/annurev-statistics-060116-053930)
 
 ### Reading lists
 #### General
@@ -78,12 +83,19 @@ Fairness definitions and their politics: [presentation by Arvind Narayanan, vide
 
 [Congressional record parser](https://github.com/unitedstates/congressional-record): "This tool converts HTML files containing the text of the Congressional Record into structured text data. It is particularly useful for identifying speeches by members of Congress."
 
+### Cheatsheets
+[neural networks/maching learning](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
+
 ### People, groups, hashtags
 [List of sociologists online, by Philip N. Cohen](https://twitter.com/familyunequal/lists/sociologists)
 
 `#rladies`
 
 `#rstats`
+
+[R Animated Gifs](https://twitter.com/i/moments/1065910383670685696)
+
+[The Data Science job market is saturated](https://veekaybee.github.io/2019/02/13/data-science-is-different/)
 
 ### Similar collections
 [R resources collection, NU Research Computing Services](https://github.com/nuitrcs/rworkshops)
