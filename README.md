@@ -1,6 +1,6 @@
 A guide to computational social science resources
 =================================================
-A collection of resources and readings for people wanting to get acquainted with computational social science. This started out as a way for us to collect resources that we found useful or interesting. Credit goes to @andrewnolanhall for pitching the idea at [Data Science Nights@Northwestern](http://www.data-science-nights.org/). Links to similar collections at the bottom. Text in quotes is taken directly from the website or document. The rest is our editorializing. Suggestions welcome. WIP.
+A collection of resources and readings for people wanting to get acquainted with computational social science. This started out as a way for us to collect resources that we found useful or interesting. Credit goes to [@andrewnolanhall](https://github.com/andrewnolanhall/) for pitching the idea at [Data Science Nights@Northwestern](http://www.data-science-nights.org/). Links to similar collections at the bottom. Text in quotes is taken directly from the website or document. The rest is our editorializing. Suggestions welcome. WIP.
 
 Ideas to gather resources for this guide: 
 - [Syllabus](https://www.bitbybitbook.com) included to access readings alongside Bit by Bit book 
