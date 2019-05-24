@@ -6,15 +6,20 @@ Ideas to gather resources for this guide:
 - [Syllabus](https://www.bitbybitbook.com) included to access readings alongside Bit by Bit book 
 - Perspectives on Computational Analysis [Syllabus](https://github.com/UC-MACSS/persp-analysis)
 
+### Similar collections
+[R for the rest of use, Resources](https://rfortherestofus.com/resources/)
+
+[R resources collection, NU Research Computing Services](https://github.com/nuitrcs/rworkshops)
+
+[Python resources collection, NU Research Computing Services](https://github.com/nuitrcs/pythonworkshops)
+
+[OpenIntro, free textbooks](https://twitter.com/OpenIntroOrg)
+
 
 ### Training
 [Starting from zero, Data Carpentry workshop](https://datacarpentry.org/r-socialsci/): "This is an introduction to R designed for participants with no programming experience. These lessons can be taught in a day (~ 6 hours). They start with some basic information about R syntax, the RStudio interface, and move through how to import CSV files, the structure of data frames, how to deal with factors, how to add/remove rows and columns, how to calculate summary statistics from a data frame, and a brief introduction to plotting."
 
 These resources are intended for in-person workshops but can be used by self-learners.
-
-[DataCamp](https://www.datacamp.com)
-
-[DataCamp for Northwestern University students](https://www.it.northwestern.edu/research/campus-events/data-camp.html)
 
 [Garret Grolemund, Hadley Wickham, _R for Data Science_](http://r4ds.had.co.nz/)
 
@@ -82,9 +87,11 @@ For people coming from `Stata` and wanting to learn `R`: [R for Stata users](htt
 
 `#rstats`
 
-### Similar collections
-[R resources collection, NU Research Computing Services](https://github.com/nuitrcs/rworkshops)
 
-[Python resources collection, NU Research Computing Services](https://github.com/nuitrcs/pythonworkshops)
+## DataCamp
+Following recent events at DataCamp ([here](https://blog.rladies.org/post/statement-about-datacamp/), [here](https://www.buzzfeednews.com/article/daveyalba/datacamp-sexual-harassment-metoo-tech-startup), [here](https://www.datacamp.com/community/blog/apology), [here](https://www.datacamp.com/community/blog/board-update)), this guide prefers to recommend other resources. The course offer is, however, comprehensive, and Northwestern University students benefit from a special offer.
 
-[OpenIntro, free textbooks](https://twitter.com/OpenIntroOrg)
+[DataCamp](https://www.datacamp.com)
+
+[DataCamp for Northwestern University students](https://www.it.northwestern.edu/research/campus-events/data-camp.html)
+
