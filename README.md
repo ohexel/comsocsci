@@ -81,6 +81,10 @@ Fairness definitions and their politics: [presentation by Arvind Narayanan, vide
 #### Reading list - CSS Applications in Political Science
 
 ### Data sets, sources, and software
+[Urban Institute Data Catalogue](https://datacatalog.urban.org/search/type/dataset)
+
+[UIDC announcement and short presentation](https://medium.com/@urban_institute/announcing-the-urban-institute-data-catalog-ce2c787e38e9)
+
 [Google tool for finding datasets](https://toolbox.google.com/datasetsearch)
 
 [Cook County Open Data portal](https://datacatalog.cookcountyil.gov/)
