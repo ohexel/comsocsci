@@ -7,7 +7,7 @@ Ideas to gather resources for this guide:
 - Perspectives on Computational Analysis [Syllabus](https://github.com/UC-MACSS/persp-analysis)
 
 ### Similar collections
-[R for the rest of use, Resources](https://rfortherestofus.com/resources/)
+[R for the rest of use, resources](https://rfortherestofus.com/resources/)
 
 [R resources collection, NU Research Computing Services](https://github.com/nuitrcs/rworkshops)
 
@@ -17,15 +17,17 @@ Ideas to gather resources for this guide:
 
 
 ### Training
+Learn `R` in `R`: [https://swirlstats.com](the `swirl` package).
+
 [Fast lane to learning R](https://github.com/matloff/fasteR) by Norm Matloff (prof of CompSci at UC Davis). Self-description: "This site is for those who know nothing of R, or maybe even nothing of programming, and seek QUICK, painless entree to the world of R." The course is quite thorough regarding base R, including graphics (`ggplot2` is covered as well). NM is a proponent of learning base R first before learning third-party packages and I tend to agree.
+
+Garret Grolemund, Hadley Wickham, [_R for Data Science_](http://r4ds.had.co.nz/). The authors are important originators of/contributors to the so-called `tidyverse`, a collection of packages for R. While these packages make a lot of things much easier, beginning to learn R by starting with them is, in my opinion, a bit like learning to run before learning to walk.
 
 [Starting from zero, Data Carpentry workshop](https://datacarpentry.org/r-socialsci/): "This is an introduction to R designed for participants with no programming experience. These lessons can be taught in a day (~ 6 hours). They start with some basic information about R syntax, the RStudio interface, and move through how to import CSV files, the structure of data frames, how to deal with factors, how to add/remove rows and columns, how to calculate summary statistics from a data frame, and a brief introduction to plotting."
 
 These resources are intended for in-person workshops but can be used by self-learners.
 
-For people coming from `Stata` and wanting to learn `R`: [R for Stata users](http://r4stats.com/books/r4stata/). An earlier draft is available for free.
-
-[Garret Grolemund, Hadley Wickham, _R for Data Science_](http://r4ds.had.co.nz/)
+For people coming from `Stata` and wanting to learn `R`: [R for Stata users](http://r4stats.com/books/r4stata/). An earlier draft is available for free. This book is structured somewhat similarly to the O'Reilly Cookbooks, i.e. it is a laundry list of problems or situations for which solutions are given in both Stata and R. If your particular problem is among those covered, great! If not, you won't get around learning the basics of R and translating Stata logic into R logic yourself.
 
 [Chromebook Data Science project](http://jhudatascience.org/chromebookdatascience/cbds.html): "Chromebook Data Science (CBDS) is an online educational program to help anyone who can read, write, and use a computer to move into data science. It is offered by faculty members in the Johns Hopkins Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health. There are currently 12 courses that are offered in the Chromebook Data Science Curriculum."
 
@@ -33,7 +35,6 @@ For people coming from `Stata` and wanting to learn `R`: [R for Stata users](htt
 
 [Scipy Lecture Notes](www.scipy-lectures.org) "Tutorials on the scientific Python ecosystem: a quick introduction to central tools and techniques. The different chapters each correspond to a 1 to 2 hours course with increasing level of expertise, from beginner to expert."
 
-Learn R, in R. https://swirlstats.com
 
 [The BBC's visual and data journalism cookbook for R](https://bbc.github.io/rcookbook/)
 
@@ -44,15 +45,15 @@ Very high-level view of what makes up "data science:" [Curriculum Guidelines for
 ### Reading lists
 
 #### Reading list - General
-[Matthew Sagalnik, _Bit by bit](https://press.princeton.edu/titles/11057.html)
+Matthew Salganik, [_Bit by bit_](https://press.princeton.edu/titles/11057.html)(tree version)
 
-[Matthew Sagalnik, _Bit by bit_(Free version)](https://www.bitbybitbook.com/en/1st-ed/preface/)
+Matthew Salganik, [_Bit by bit_](https://www.bitbybitbook.com/en/1st-ed/preface/)(free version)
 
-[Bernard E. Harcourt, _Against Prediction_ (tree version)](https://www.press.uchicago.edu/ucp/books/book/chicago/A/bo4101022.html) Summary: _Against Prediction_ argues that predictive policing models not “crime” but “arrests”, i.e. police behavior, not the supposed underlying behavior (not what crimes will happen where, but who will be arrested). Therefore, it will reinforce existing trends in policing instead of “improving” policing.
+Bernard E. Harcourt, [_Against Prediction_](https://www.press.uchicago.edu/ucp/books/book/chicago/A/bo4101022.html)(tree version) Summary: _Against Prediction_ argues that predictive policing models not “crime” but “arrests”, i.e. police behavior, not the supposed underlying behavior (not what crimes will happen where, but who will be arrested). Therefore, it will reinforce existing trends in policing instead of “improving” policing.
 
-[Bernard E. Harcourt, _Against Prediction_ (working paper)](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=756945)
+Bernard E. Harcourt, [_Against Prediction_](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=756945)(working paper)
 
-[Bernard E. Harcourt, _Against Prediction_; review by Cosma Shalizi](http://bactra.org/reviews/against-prediction/)
+Bernard E. Harcourt, [_Against Prediction_](http://bactra.org/reviews/against-prediction/)review by Cosma Shalizi
 
 [Thoughts on algorithmic fairness](http://joshualoftus.com/post/algorithmic-fairness-is-as-hard-as-causation/): "Algorithmic fairness is an interdisciplinary research field concerned with the various ways that algorithms may perpetuate or reinforce unfair legacies of our history, and how we might modify the alorithms or systems they are used in to prevent this. For example, if the training data used in a machine learning methods contains patterns caused by things like racism, sexism, ableism, or other types of injustice, then the model may learn those patterns and use them to make predictions and decisions that are unfair. There are many ways that technology can have unintended consequences, and this is just one of them."
 
