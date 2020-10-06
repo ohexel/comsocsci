@@ -17,6 +17,8 @@ Ideas to gather resources for this guide:
 
 
 ### Training
+[Fast lane to learning R](https://github.com/matloff/fasteR) by Norm Matloff (prof of CompSci at UC Davis). Self-description: "This site is for those who know nothing of R, or maybe even nothing of programming, and seek QUICK, painless entree to the world of R." The course is quite thorough regarding base R, including graphics (`ggplot2` is covered as well). NM is a proponent of learning base R first before learning third-party packages and I tend to agree.
+
 [Starting from zero, Data Carpentry workshop](https://datacarpentry.org/r-socialsci/): "This is an introduction to R designed for participants with no programming experience. These lessons can be taught in a day (~ 6 hours). They start with some basic information about R syntax, the RStudio interface, and move through how to import CSV files, the structure of data frames, how to deal with factors, how to add/remove rows and columns, how to calculate summary statistics from a data frame, and a brief introduction to plotting."
 
 These resources are intended for in-person workshops but can be used by self-learners.
