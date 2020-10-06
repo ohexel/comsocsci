@@ -17,7 +17,7 @@ Ideas to gather resources for this guide:
 
 
 ### Training
-Learn `R` in `R`: [https://swirlstats.com](the `swirl` package).
+Learn R in R: [the `swirl` package](https://swirlstats.com).
 
 [Fast lane to learning R](https://github.com/matloff/fasteR) by Norm Matloff (prof of CompSci at UC Davis). Self-description: "This site is for those who know nothing of R, or maybe even nothing of programming, and seek QUICK, painless entree to the world of R." The course is quite thorough regarding base R, including graphics (`ggplot2` is covered as well). NM is a proponent of learning base R first before learning third-party packages and I tend to agree.
 
@@ -27,7 +27,7 @@ Garret Grolemund, Hadley Wickham, [_R for Data Science_](http://r4ds.had.co.nz/)
 
 These resources are intended for in-person workshops but can be used by self-learners.
 
-For people coming from `Stata` and wanting to learn `R`: [R for Stata users](http://r4stats.com/books/r4stata/). An earlier draft is available for free. This book is structured somewhat similarly to the O'Reilly Cookbooks, i.e. it is a laundry list of problems or situations for which solutions are given in both Stata and R. If your particular problem is among those covered, great! If not, you won't get around learning the basics of R and translating Stata logic into R logic yourself.
+For people coming from *Stata* and wanting to learn *R*: [R for Stata users](http://r4stats.com/books/r4stata/). An earlier draft is available for free. This book is structured somewhat similarly to the O'Reilly Cookbooks, i.e. it is a laundry list of problems or situations for which solutions are given in both Stata and R. If your particular problem is among those covered, great! If not, you won't get around learning the basics of R and translating Stata logic into R logic yourself.
 
 [Chromebook Data Science project](http://jhudatascience.org/chromebookdatascience/cbds.html): "Chromebook Data Science (CBDS) is an online educational program to help anyone who can read, write, and use a computer to move into data science. It is offered by faculty members in the Johns Hopkins Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health. There are currently 12 courses that are offered in the Chromebook Data Science Curriculum."
 
