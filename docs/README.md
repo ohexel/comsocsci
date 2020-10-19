@@ -102,6 +102,8 @@ Fairness definitions and their politics: [presentation by Arvind Narayanan, vide
 
 [Congressional record parser](https://github.com/unitedstates/congressional-record): "This tool converts HTML files containing the text of the Congressional Record into structured text data. It is particularly useful for identifying speeches by members of Congress."
 
+[Computational Social Science - syllabus (Dr. Nir Grinberg, Ben-Gurion University)](https://css-sise.github.io/)
+
 ### Cheatsheets
 [neural networks/maching learning](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
 
