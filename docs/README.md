@@ -21,7 +21,10 @@ A collection of resources and readings for people wanting to get acquainted with
 - [SciPy Lecture Notes](www.scipy-lectures.org) "Tutorials on the scientific Python ecosystem: a quick introduction to central tools and techniques. The different chapters each correspond to a 1 to 2 hours course with increasing level of expertise, from beginner to expert."
 - Very high-level view of what makes up "data science:" [Curriculum Guidelines for Undergraduate Programs in Data Science](https://www.annualreviews.org/doi/full/10.1146/annurev-statistics-060116-053930)
 
-## Reading lists
+## Readings
+### Practical advice
+"How to name files," Jenny Bryan's [speaker deck](https://speakerdeck.com/jennybc/how-to-name-files)
+
 ### General
 [Matthew Sagalnik, _Bit by bit_](https://www.bitbybitbook.com/en/1st-ed/preface/) (free version)
 
