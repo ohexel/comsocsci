@@ -31,6 +31,8 @@ Version control in R:
 - [How to use Git/Github from R/Rstudio](https://rfortherestofus.com/2021/02/how-to-use-git-github-with-r/)
 - [Github](https://rstudio-conf-2020.github.io/r-for-excel/github.html)
 
+["starting R markdown,"](https://www.youtube.com/playlist?list=PLRPB0ZzEYegM86awo590bP1MJjQbjdR9E) YouTube tutorial playlist by Danielle Navarro
+
 ### General
 [Matthew Sagalnik, _Bit by bit_](https://www.bitbybitbook.com/en/1st-ed/preface/) (free version)
 
