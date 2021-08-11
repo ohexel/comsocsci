@@ -3,7 +3,7 @@ A collection of resources and readings for people wanting to get acquainted
 with computational social science.
 
 Credit goes to [Andrew Hall](https://github.com/andrewnolanhall) for suggesting
-suggested at a [Data Science Nights@Northwestern](http://www.data-science-nights.org/)
+at a [Data Science Nights@Northwestern](http://www.data-science-nights.org/)
 event that we collect and share resources that we found useful or interesting. 
 
 Contributions and suggestions welcome.
@@ -223,7 +223,7 @@ and much more.
 
 ## DataCamp
 Following recent events at [DataCamp](https://www.datacamp.com)
-([here](https://blog.rladies.org/post/statement-about-datacamp/),
+(see [here](https://blog.rladies.org/post/statement-about-datacamp/),
 [here](https://www.buzzfeednews.com/article/daveyalba/datacamp-sexual-harassment-metoo-tech-startup),
 [here](https://www.datacamp.com/community/blog/apology),
 [here](https://www.datacamp.com/community/blog/board-update)), this guide
