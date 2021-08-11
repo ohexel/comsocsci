@@ -14,6 +14,16 @@ A collection of resources and readings for people wanting to get acquainted with
 - [Starting from zero, Data Carpentry workshop](https://datacarpentry.org/r-socialsci/): "This is an introduction to R designed for participants with no programming experience. These lessons can be taught in a day (~ 6 hours). They start with some basic information about R syntax, the RStudio interface, and move through how to import CSV files, the structure of data frames, how to deal with factors, how to add/remove rows and columns, how to calculate summary statistics from a data frame, and a brief introduction to plotting."
 	
 	These resources are intended for in-person workshops but can be used by self-learners.
+- [Data Science Course in
+  a Box](datasciencebox.org ) ([Course materials](https://github.com/rstudio-education/datascience-box))
+  by [Mine Cetinkaya-Rundel](https://www2.stat.duke.edu/~mc301/) for RStudio.
+  Primarily intended for teachers but might be valuable for self-learners too.
+  Self-presentation:
+
+  > Data Science in a Box contains the materials required to teach (or learn from) an introductory data science course using R, all of which are freely-available and open-source. They include course materials such as slide decks, homework assignments, guided labs, sample exams, a final project assignment, as well as materials for instructors such as pedagogical tips, information on computing infrastructure, technology stack, and course logistics.
+  > 
+  > See datasciencebox.org for everything you need to know about the project!
+
 - For people coming from *Stata* and wanting to learn *R*: [R for Stata users](http://r4stats.com/books/r4stata/). An earlier draft is available for free. This book is structured somewhat similarly to the O'Reilly Cookbooks, i.e. it is a laundry list of problems or situations for which solutions are given in both Stata and R. If your particular problem is among those covered, great! If not, you won't get around learning the basics of R and translating Stata logic into R logic yourself.
 - [Chromebook Data Science project](http://jhudatascience.org/chromebookdatascience/cbds.html): "Chromebook Data Science (CBDS) is an online educational program to help anyone who can read, write, and use a computer to move into data science. It is offered by faculty members in the Johns Hopkins Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health. There are currently 12 courses that are offered in the Chromebook Data Science Curriculum."
 - [UK Data Service Data Skills Modules](https://www.ukdataservice.ac.uk/use-data/data-skills-modules): "These introductory level interactive modules are designed for users who want to get to grips with keys aspects of survey, longitudinal and aggregate data."
