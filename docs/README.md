@@ -35,6 +35,14 @@ A collection of resources and readings for people wanting to get acquainted with
 ### Practical advice
 "How to name files," Jenny Bryan's [speaker deck](https://speakerdeck.com/jennybc/how-to-name-files)
 
+Version control in R:
+
+- [Collaborating in Git and Github](https://www.sds.pub/collaborating-with-git-and-github.html)
+- [How to use Git/Github from R/Rstudio](https://rfortherestofus.com/2021/02/how-to-use-git-github-with-r/)
+- [Github](https://rstudio-conf-2020.github.io/r-for-excel/github.html)
+
+["starting R markdown,"](https://www.youtube.com/playlist?list=PLRPB0ZzEYegM86awo590bP1MJjQbjdR9E) YouTube tutorial playlist by Danielle Navarro
+
 ### General
 [Matthew Sagalnik, _Bit by bit_](https://www.bitbybitbook.com/en/1st-ed/preface/) (free version)
 
