@@ -1,35 +1,88 @@
 # A guide to computational social science resources
-A collection of resources and readings for people wanting to get acquainted with computational social science. This started out as a way for us to collect resources that we found useful or interesting. 
+A collection of resources and readings for people wanting to get acquainted
+with computational social science. This started out as a way for us to collect
+resources that we found useful or interesting. 
 
-**Disclaimer**: Credit goes to [@andrewnolanhall](https://github.com/andrewnolanhall) for pitching the idea at [Data Science Nights@Northwestern](http://www.data-science-nights.org/). Quoted text is taken directly from the website or document. The rest is our editorializing. Suggestions welcome. WIP.
+Credit goes to [@andrewnolanhall](https://github.com/andrewnolanhall) for
+pitching the idea at [Data Science Nights@Northwestern](http://www.data-science-nights.org/).
+Quoted text is taken directly from the website or document. Suggestions welcome.
 
 ## Syllabi
 - Perspectives on Computational Analysis [Syllabus](https://github.com/UC-MACSS/persp-analysis)
-- [Computational Social Science - syllabus (Dr. Nir Grinberg, Ben-Gurion University)](https://css-sise.github.io/)
+- [Computational Social Science](https://css-sise.github.io/), syllabus by
+  [Nir Grinberg](https://in.bgu.ac.il/en/Pages/Nir-Grinberg.aspx), Ben-Gurion University
+- Very high-level view of what makes up "data science:" [Curriculum Guidelines for Undergraduate Programs in Data Science](https://www.annualreviews.org/doi/full/10.1146/annurev-statistics-060116-053930)
 
 ## Training
 - Learn R in R: [the `swirl` package](https://swirlstats.com).
-- [Fast lane to learning R](https://github.com/matloff/fasteR) by Norm Matloff (prof of CompSci at UC Davis). Self-description: "This site is for those who know nothing of R, or maybe even nothing of programming, and seek QUICK, painless entree to the world of R." The course is quite thorough regarding base R, including graphics (`ggplot2` is covered as well). NM is a proponent of learning base R first before learning third-party packages and I tend to agree.
-- Garret Grolemund, Hadley Wickham, [_R for Data Science_](http://r4ds.had.co.nz/). The authors are important originators of/contributors to the so-called `tidyverse`, a collection of packages for R. While these packages make a lot of things much easier, beginning to learn R by starting with them is, in my opinion, a bit like learning to run before learning to walk.
-- [Starting from zero, Data Carpentry workshop](https://datacarpentry.org/r-socialsci/): "This is an introduction to R designed for participants with no programming experience. These lessons can be taught in a day (~ 6 hours). They start with some basic information about R syntax, the RStudio interface, and move through how to import CSV files, the structure of data frames, how to deal with factors, how to add/remove rows and columns, how to calculate summary statistics from a data frame, and a brief introduction to plotting."
+- [Fast lane to learning R](https://github.com/matloff/fasteR) by 
+[Norman Matloff](https://faculty.engineering.ucdavis.edu/matloff/) (professor
+of Computer Science at UC Davis). Self-description:
+
+> This site is for those who know nothing of R, or maybe even nothing of
+> programming, and seek QUICK, painless entree to the world of R.
+
+  The course is quite thorough regarding base R, including graphics (**ggplot2**
+  is covered as well). NM is a proponent of learning base R first before
+  learning third-party packages and I tend to agree.
+- [R for Data Science](http://r4ds.had.co.nz/) by Garret Grolemund and Hadley
+Wickham. The authors are important originators of/contributors to the so-called
+"tidyverse", a collection of packages for R. These packages tend make things
+easier (especially for automated workflows). However, starting out with the
+"tidyverse" when learning R is, in my opinion, a bit like learning to run
+before learning to walk.
+- [Starting from zero](https://datacarpentry.org/r-socialsci/), Data Carpentry
+workshop. These resources are intended for in-person workshops but can be used
+by self-learners.
+
+  > This is an introduction to R designed for participants with no programming
+  > experience. These lessons can be taught in a day (~ 6 hours). They start
+  > with some basic information about R syntax, the RStudio interface, and move
+  > through how to import CSV files, the structure of data frames, how to deal
+  > with factors, how to add/remove rows and columns, how to calculate summary
+  > statistics from a data frame, and a brief introduction to plotting.
 	
-	These resources are intended for in-person workshops but can be used by self-learners.
 - [Data Science Course in
   a Box](datasciencebox.org ) ([Course materials](https://github.com/rstudio-education/datascience-box))
   by [Mine Cetinkaya-Rundel](https://www2.stat.duke.edu/~mc301/) for RStudio.
   Primarily intended for teachers but might be valuable for self-learners too.
   Self-presentation:
 
-  > Data Science in a Box contains the materials required to teach (or learn from) an introductory data science course using R, all of which are freely-available and open-source. They include course materials such as slide decks, homework assignments, guided labs, sample exams, a final project assignment, as well as materials for instructors such as pedagogical tips, information on computing infrastructure, technology stack, and course logistics.
+  > Data Science in a Box contains the materials required to teach (or learn
+  > from) an introductory data science course using R, all of which are
+  > freely-available and open-source. They include course materials such as
+  > slide decks, homework assignments, guided labs, sample exams, a final
+  > project assignment, as well as materials for instructors such as
+  > pedagogical tips, information on computing infrastructure, technology
+  > stack, and course logistics.
   > 
   > See datasciencebox.org for everything you need to know about the project!
 
-- For people coming from *Stata* and wanting to learn *R*: [R for Stata users](http://r4stats.com/books/r4stata/). An earlier draft is available for free. This book is structured somewhat similarly to the O'Reilly Cookbooks, i.e. it is a laundry list of problems or situations for which solutions are given in both Stata and R. If your particular problem is among those covered, great! If not, you won't get around learning the basics of R and translating Stata logic into R logic yourself.
-- [Chromebook Data Science project](http://jhudatascience.org/chromebookdatascience/cbds.html): "Chromebook Data Science (CBDS) is an online educational program to help anyone who can read, write, and use a computer to move into data science. It is offered by faculty members in the Johns Hopkins Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health. There are currently 12 courses that are offered in the Chromebook Data Science Curriculum."
-- [UK Data Service Data Skills Modules](https://www.ukdataservice.ac.uk/use-data/data-skills-modules): "These introductory level interactive modules are designed for users who want to get to grips with keys aspects of survey, longitudinal and aggregate data."
+- [R for Stata users](http://r4stats.com/books/r4stata/), for people coming
+  from **Stata** and wanting to learn **R**. An earlier draft is available for
+  free. This book is structured somewhat similarly to the O'Reilly Cookbooks,
+  i.e. it is a laundry list of problems or situations for which solutions are
+  given in both Stata and R. If your particular problem is among those covered,
+  great! If not, you won't get around learning the basics of R and translating
+  Stata logic into R logic yourself.
+- [Chromebook Data Science project](http://jhudatascience.org/chromebookdatascience/cbds.html)
+  > Chromebook Data Science (CBDS) is an online educational program to help
+  > anyone who can read, write, and use a computer to move into data science.>
+  > It is offered by faculty members in the Johns Hopkins Department of
+  > Biostatistics, Johns Hopkins Bloomberg School of Public Health. There are
+  > currently 12 courses that are offered in the Chromebook Data Science
+  > Curriculum.
+- [UK Data Service Data Skills Modules](https://www.ukdataservice.ac.uk/use-data/data-skills-modules)
+
+  > These introductory level interactive modules are designed for users who
+  > want to get to grips with keys aspects of survey, longitudinal and
+  > aggregate data.
 - [The BBC's visual and data journalism cookbook for R](https://bbc.github.io/rcookbook/), [Blog post announcing and explaining the launch of the BBC's visual and data journalism cookbook in R](https://medium.com/bbc-visual-and-data-journalism/how-the-bbc-visual-and-data-journalism-team-works-with-graphics-in-r-ed0b35693535)
-- [SciPy Lecture Notes](www.scipy-lectures.org) "Tutorials on the scientific Python ecosystem: a quick introduction to central tools and techniques. The different chapters each correspond to a 1 to 2 hours course with increasing level of expertise, from beginner to expert."
-- Very high-level view of what makes up "data science:" [Curriculum Guidelines for Undergraduate Programs in Data Science](https://www.annualreviews.org/doi/full/10.1146/annurev-statistics-060116-053930)
+- [SciPy Lecture Notes](www.scipy-lectures.org)
+  > Tutorials on the scientific Python ecosystem: a quick introduction to
+  > central tools and techniques. The different chapters each correspond to a
+  > 1 to 2 hours course with increasing level of expertise, from beginner to
+  > expert.
 
 ## Readings
 ### Practical advice
@@ -41,7 +94,8 @@ Version control in R:
 - [How to use Git/Github from R/Rstudio](https://rfortherestofus.com/2021/02/how-to-use-git-github-with-r/)
 - [Github](https://rstudio-conf-2020.github.io/r-for-excel/github.html)
 
-["starting R markdown,"](https://www.youtube.com/playlist?list=PLRPB0ZzEYegM86awo590bP1MJjQbjdR9E) YouTube tutorial playlist by Danielle Navarro
+["starting R markdown,"](https://www.youtube.com/playlist?list=PLRPB0ZzEYegM86awo590bP1MJjQbjdR9E),
+a YouTube tutorial playlist by [Danielle Navarro](https://djnavarro.net/)
 
 ### General
 [Matthew Sagalnik, _Bit by bit_](https://www.bitbybitbook.com/en/1st-ed/preface/) (free version)
