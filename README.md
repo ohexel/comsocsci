@@ -1,11 +1,12 @@
 # A guide to computational social science resources
 A collection of resources and readings for people wanting to get acquainted
-with computational social science. This started out as a way for us to collect
-resources that we found useful or interesting. 
+with computational social science.
 
-Credit goes to [@andrewnolanhall](https://github.com/andrewnolanhall) for
-pitching the idea at [Data Science Nights@Northwestern](http://www.data-science-nights.org/).
-Quoted text is taken directly from the website or document. Suggestions welcome.
+Credit goes to [Andrew Hall](https://github.com/andrewnolanhall) for suggesting
+suggested at a [Data Science Nights@Northwestern](http://www.data-science-nights.org/)
+event that we collect and share resources that we found useful or interesting. 
+
+Contributions and suggestions welcome.
 
 ## Syllabi
 - Perspectives on Computational Analysis [Syllabus](https://github.com/UC-MACSS/persp-analysis)
@@ -17,20 +18,20 @@ Quoted text is taken directly from the website or document. Suggestions welcome.
 - Learn R in R: [the `swirl` package](https://swirlstats.com).
 - [Fast lane to learning R](https://github.com/matloff/fasteR) by 
 [Norman Matloff](https://faculty.engineering.ucdavis.edu/matloff/) (professor
-of Computer Science at UC Davis). Self-description:
+  of Computer Science at UC Davis). The course is quite thorough regarding base
+  R, including graphics (**ggplot2** is covered as well). NM is a proponent of
+  learning base R first before learning third-party packages and I tend to
+  agree.
 
-> This site is for those who know nothing of R, or maybe even nothing of
-> programming, and seek QUICK, painless entree to the world of R.
+  > This site is for those who know nothing of R, or maybe even nothing of
+  > programming, and seek QUICK, painless entree to the world of R.
 
-  The course is quite thorough regarding base R, including graphics (**ggplot2**
-  is covered as well). NM is a proponent of learning base R first before
-  learning third-party packages and I tend to agree.
 - [R for Data Science](http://r4ds.had.co.nz/) by Garret Grolemund and Hadley
-Wickham. The authors are important originators of/contributors to the so-called
-"tidyverse", a collection of packages for R. These packages tend make things
-easier (especially for automated workflows). However, starting out with the
-"tidyverse" when learning R is, in my opinion, a bit like learning to run
-before learning to walk.
+  Wickham. The authors are important originators of/contributors to the
+  so-called "tidyverse", a collection of packages for R. These packages tend
+  make things easier (especially for automated workflows). However, starting
+  out with the "tidyverse" when learning R is, in my opinion, a bit like
+  learning to run before learning to walk.
 - [Starting from zero](https://datacarpentry.org/r-socialsci/), Data Carpentry
 workshop. These resources are intended for in-person workshops but can be used
 by self-learners.
@@ -102,13 +103,29 @@ a YouTube tutorial playlist by [Danielle Navarro](https://djnavarro.net/)
 
 [Matthew Sagalnik, _Bit by bit_](https://press.princeton.edu/titles/11057.html) (tree version)
 
-[Bernard E. Harcourt, _Against Prediction_](https://www.press.uchicago.edu/ucp/books/book/chicago/A/bo4101022.html) (tree version) Summary: _Against Prediction_ argues that predictive policing models not “crime” but “arrests”, i.e. police behavior, not the supposed underlying behavior (not what crimes will happen where, but who will be arrested). Therefore, it will reinforce existing trends in policing instead of “improving” policing.
+[Bernard E. Harcourt, _Against Prediction_](https://www.press.uchicago.edu/ucp/books/book/chicago/A/bo4101022.html) (tree version)
+_Summary_: _Against Prediction_ argues that predictive policing models not
+“crime” but “arrests”, i.e. it models how police react to an unobserved (for
+the model) behavior instead of modeling the unobserved behavior directly. In 
+other words, it does not model what crimes will happen where, but who will be 
+arrested. Therefore, it will reinforce existing trends in policing instead of
+“improving” policing.
 
 [Bernard E. Harcourt, _Against Prediction_](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=756945) (working paper)
 
 [Bernard E. Harcourt, _Against Prediction_](http://bactra.org/reviews/against-prediction/) (review by Cosma Shalizi)
 
-[Thoughts on algorithmic fairness](http://joshualoftus.com/post/algorithmic-fairness-is-as-hard-as-causation/): "Algorithmic fairness is an interdisciplinary research field concerned with the various ways that algorithms may perpetuate or reinforce unfair legacies of our history, and how we might modify the alorithms or systems they are used in to prevent this. For example, if the training data used in a machine learning methods contains patterns caused by things like racism, sexism, ableism, or other types of injustice, then the model may learn those patterns and use them to make predictions and decisions that are unfair. There are many ways that technology can have unintended consequences, and this is just one of them."
+[Thoughts on algorithmic fairness](http://joshualoftus.com/post/algorithmic-fairness-is-as-hard-as-causation/)
+
+> Algorithmic fairness is an interdisciplinary research field concerned with
+> the various ways that algorithms may perpetuate or reinforce unfair legacies
+> of our history, and how we might modify the alorithms or systems they are
+> used in to prevent this. For example, if the training data used in a machin
+> learning methods contains patterns caused by things like racism, sexism,
+> ableism, or other types of injustice, then the model may learn those patterns
+> and use them to make predictions and decisions that are unfair. There are
+> many ways that technology can have unintended consequences, and this is just
+> one of them.
 
 ### Methods
 [Claus Witte, _Fundamentals of Data Visualization_](https://serialmentor.com/dataviz/)
@@ -135,9 +152,13 @@ Fairness definitions and their politics: [presentation by Arvind Narayanan, vide
 
 
 ## Data sets and sources
-[Inter-university Consortium for Political and Social research](https://www.icpsr.umich.edu/web/pages/ICPSR/index.html) - A data repository for mostly survey data. North America-centric.
+[Inter-university Consortium for Political and Social research](https://www.icpsr.umich.edu/web/pages/ICPSR/index.html)
+A data repository for mostly survey data. North America-centric.
 
-[Cross-national equivalent file](https://www.cnefdata.org/) - The Cross-National Equivalent File (CNEF) project harmonizes a subset of the data found on seven panel data sets collected in Australia, Canada, China, Germany, Korea, Russia, Switzerland, UK, and US.
+[Cross-national equivalent file](https://www.cnefdata.org/)
+The Cross-National Equivalent File (CNEF) project harmonizes a subset of the
+data found on seven panel data sets collected in Australia, Canada, China,
+Germany, Korea, Russia, Switzerland, UK, and US.
 
 [Urban Institute Data Catalogue](https://datacatalog.urban.org/search/type/dataset), [UIDC announcement and short presentation](https://medium.com/@urban_institute/announcing-the-urban-institute-data-catalog-ce2c787e38e9)
 
@@ -147,13 +168,27 @@ Fairness definitions and their politics: [presentation by Arvind Narayanan, vide
  
 [Cook County Open Data - State Attorney (e.g. arrest data)](https://datacatalog.cookcountyil.gov/browse?tags=state%27s%20attorney%20case-level)
 
-[Wesleyan Media Project](http://mediaproject.wesleyan.edu/): "The Wesleyan Media Project tracks and analyzes all broadcast advertisements aired by or on behalf of federal and state election candidates in every media market in the country."
+[Wesleyan Media Project](http://mediaproject.wesleyan.edu/)
 
-[The Stanford Open Policing Project](https://openpolicing.stanford.edu/): "Our team is gathering, analyzing, and releasing records from millions of traffic stops by law enforcement agencies across the country."
+> The Wesleyan Media Project tracks and analyzes all broadcast advertisements
+> aired by or on behalf of federal and state election candidates in every media
+> market in the country.
 
-[The @unitedstates project](https://theunitedstates.io/) Scrapers and parsers for many aspects regarding Congress, e.g. bios of members past and present, data about bills and roll call votes, district shapefiles, and much more.
+[The Stanford Open Policing Project](https://openpolicing.stanford.edu/)
 
-[Congressional record parser](https://github.com/unitedstates/congressional-record): "This tool converts HTML files containing the text of the Congressional Record into structured text data. It is particularly useful for identifying speeches by members of Congress."
+> Our team is gathering, analyzing, and releasing records from millions of
+> traffic stops by law enforcement agencies across the country.
+
+[The @unitedstates project](https://theunitedstates.io/)
+Scrapers and parsers for many aspects regarding Congress, e.g. bios of members
+past and present, data about bills and roll call votes, district shapefiles,
+and much more.
+
+[Congressional record parser](https://github.com/unitedstates/congressional-record)
+
+> This tool converts HTML files containing the text of the Congressional Record
+> into structured text data. It is particularly useful for identifying speeches
+> by members of Congress.
 
 [Pew Research survey data](https://www.pewresearch.org/download-datasets/)
 
@@ -187,4 +222,10 @@ Fairness definitions and their politics: [presentation by Arvind Narayanan, vide
 
 
 ## DataCamp
-Following recent events at [DataCamp](https://www.datacamp.com) ([here](https://blog.rladies.org/post/statement-about-datacamp/), [here](https://www.buzzfeednews.com/article/daveyalba/datacamp-sexual-harassment-metoo-tech-startup), [here](https://www.datacamp.com/community/blog/apology), [here](https://www.datacamp.com/community/blog/board-update)), this guide prefers to recommend other resources. The course offer is, however, comprehensive, and Northwestern University students benefit from a special offer.
+Following recent events at [DataCamp](https://www.datacamp.com)
+([here](https://blog.rladies.org/post/statement-about-datacamp/),
+[here](https://www.buzzfeednews.com/article/daveyalba/datacamp-sexual-harassment-metoo-tech-startup),
+[here](https://www.datacamp.com/community/blog/apology),
+[here](https://www.datacamp.com/community/blog/board-update)), this guide
+prefers to recommend other resources. The course offer is, however,
+comprehensive, and university students may benefit from special offers.
