@@ -88,6 +88,8 @@ by self-learners.
 ### Practical advice
 "How to name files," Jenny Bryan's [speaker deck](https://speakerdeck.com/jennybc/how-to-name-files)
 
+"Project structure & Naming files," Danielle Navarro (inspired by Jenny Bryan), [slides](https://slides.djnavarro.net/project-structure/)
+
 Version control in R:
 
 - [Collaborating in Git and Github](https://www.sds.pub/collaborating-with-git-and-github.html)
