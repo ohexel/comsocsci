@@ -7,6 +7,11 @@ Credit goes to [@andrewnolanhall](https://github.com/andrewnolanhall) for
 pitching the idea at [Data Science Nights@Northwestern](http://www.data-science-nights.org/).
 Quoted text is taken directly from the website or document. Suggestions welcome.
 
+
+## What is it?
+
+[matrix of skills](https://github.com/jduckles/dsskills)
+
 ## Syllabi
 - Perspectives on Computational Analysis [Syllabus](https://github.com/UC-MACSS/persp-analysis)
 - [Computational Social Science](https://css-sise.github.io/), syllabus by
