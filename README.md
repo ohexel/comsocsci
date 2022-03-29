@@ -50,12 +50,12 @@ before learning to walk.
   workshop. These resources are intended for in-person workshops but can be
 used by self-learners.
 
-> This is an introduction to R designed for participants with no programming
-> experience. These lessons can be taught in a day (~ 6 hours). They start with
-> some basic information about R syntax, the RStudio interface, and move
-> through how to import CSV files, the structure of data frames, how to deal
-> with factors, how to add/remove rows and columns, how to calculate summary
-> statistics from a data frame, and a brief introduction to plotting.
+  > This is an introduction to R designed for participants with no programming
+  > experience. These lessons can be taught in a day (~ 6 hours). They start with
+  > some basic information about R syntax, the RStudio interface, and move
+  > through how to import CSV files, the structure of data frames, how to deal
+  > with factors, how to add/remove rows and columns, how to calculate summary
+  > statistics from a data frame, and a brief introduction to plotting.
 
 - [Data Science Course in a Box](datasciencebox.org ) ([Course
   materials](https://github.com/rstudio-education/datascience-box)) by [Mine
@@ -63,15 +63,15 @@ Cetinkaya-Rundel](https://www2.stat.duke.edu/~mc301/) for RStudio.  Primarily
 intended for teachers but might be valuable for self-learners too.
 Self-presentation:
 
-> Data Science in a Box contains the materials required to teach (or learn
-> from) an introductory data science course using R, all of which are
-> freely-available and open-source. They include course materials such as slide
-> decks, homework assignments, guided labs, sample exams, a final project
-> assignment, as well as materials for instructors such as pedagogical tips,
-> information on computing infrastructure, technology stack, and course
-> logistics.
-> 
-> See datasciencebox.org for everything you need to know about the project!
+  > Data Science in a Box contains the materials required to teach (or learn
+  > from) an introductory data science course using R, all of which are
+  > freely-available and open-source. They include course materials such as slide
+  > decks, homework assignments, guided labs, sample exams, a final project
+  > assignment, as well as materials for instructors such as pedagogical tips,
+  > information on computing infrastructure, technology stack, and course
+  > logistics.
+  > 
+  > See datasciencebox.org for everything you need to know about the project!
 
 - [R for Stata users](http://r4stats.com/books/r4stata/), for people coming
   from **Stata** and wanting to learn **R**. An earlier draft is available for
@@ -83,25 +83,25 @@ Stata logic into R logic yourself.
 - [Chromebook Data Science
   project](http://jhudatascience.org/chromebookdatascience/cbds.html)
 
-> Chromebook Data Science (CBDS) is an online educational program to
-> help anyone who can read, write, and use a computer to move into data
-> science.> It is offered by faculty members in the Johns Hopkins
-> Department of Biostatistics, Johns Hopkins Bloomberg School of Public
-> Health. There are currently 12 courses that are offered in the
-> Chromebook Data Science Curriculum.
+  > Chromebook Data Science (CBDS) is an online educational program to
+  > help anyone who can read, write, and use a computer to move into data
+  > science.> It is offered by faculty members in the Johns Hopkins
+  > Department of Biostatistics, Johns Hopkins Bloomberg School of Public
+  > Health. There are currently 12 courses that are offered in the
+  > Chromebook Data Science Curriculum.
 
 - [UK Data Service Data Skills
   Modules](https://www.ukdataservice.ac.uk/use-data/data-skills-modules)
 
-> These introductory level interactive modules are designed for users who want
-> to get to grips with keys aspects of survey, longitudinal and aggregate data.
+  > These introductory level interactive modules are designed for users who want
+  > to get to grips with keys aspects of survey, longitudinal and aggregate data.
 
 - [The BBC's visual and data journalism cookbook for R](https://bbc.github.io/rcookbook/), [Blog post announcing and explaining the launch of the BBC's visual and data journalism cookbook in R](https://medium.com/bbc-visual-and-data-journalism/how-the-bbc-visual-and-data-journalism-team-works-with-graphics-in-r-ed0b35693535)
 - [SciPy Lecture Notes](www.scipy-lectures.org)
 
-> Tutorials on the scientific Python ecosystem: a quick introduction to central
-> tools and techniques. The different chapters each correspond to a 1 to 2
-> hours course with increasing level of expertise, from beginner to expert.
+  > Tutorials on the scientific Python ecosystem: a quick introduction to central
+  > tools and techniques. The different chapters each correspond to a 1 to 2
+  > hours course with increasing level of expertise, from beginner to expert.
 
 ## Readings
 ### Practical advice
@@ -256,11 +256,11 @@ Korea, Russia, Switzerland, UK, and US.
 
 [Luxembourg Income Study](https://www.lisdatacenter.org/)
 
-> LIS acquires datasets with income, wealth, employment, and demographic data
-> from many high- and middle-income countries, harmonises them to enable
-> cross-national comparisons, and makes them publicly available in two
-> databases, the Luxembourg Income Study Database (LIS) and the Luxembourg
-> Wealth Study Database (LWS).
+  > LIS acquires datasets with income, wealth, employment, and demographic data
+  > from many high- and middle-income countries, harmonises them to enable
+  > cross-national comparisons, and makes them publicly available in two
+  > databases, the Luxembourg Income Study Database (LIS) and the Luxembourg
+  > Wealth Study Database (LWS).
 
 [German and EU surveys and administrative
 data](https://www.gesis.org/en/services/finding-and-accessing-data)
